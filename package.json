@@ -1,0 +1,19 @@
+{
+  "name": "css-animations",
+  "version": "1.0.0",
+  "description": "CSS Animations for demo",
+  "main": "index.js",
+  "repository": "git@github.com:tanthanhtrinh-dev/css-animations-demo.git",
+  "author": "tanthanhtrinh-dev <tanthanhtrinh.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-header": "^2.0.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  }
+}
