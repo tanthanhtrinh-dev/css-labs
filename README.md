@@ -1,1 +1,4 @@
-"# css-animations-demo" 
+# css-animations-demo
+```sh
+yarn add gulp --dev
+```
